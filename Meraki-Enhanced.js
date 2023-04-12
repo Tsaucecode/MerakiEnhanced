@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Meraki Enhanced View
 // @namespace    http://tampermonkey.net/
-// @version      0.9
+// @version      0.91
 // @description  This script enhances the default Meraki ACL view to make it easier to use and prettier to look at
 // @author       Tom Woods
 // @match        https://*.meraki.com/*/manage/configure/acl
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=meraki.com
 // @grant        none
-// @run-at context-menu
+// @run-at document-start
 // @require https://code.jquery.com/jquery-3.6.1.min.js
 // ==/UserScript==
 
