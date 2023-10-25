@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Meraki Enhanced View
 // @namespace    https://github.com/Tsaucecode/MerakiEnhanced
-// @version      0.92
+// @version      0.93
 // @description  This script enhances the default Meraki ACL view to make it easier to use and prettier to look at
 // @author       Tom Woods
-// @match        https://*.meraki.com/*/manage/configure/acl
+// @match        https://*.meraki.com/*/manage/configure/acl*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=meraki.com
 // @grant        none
 // @run-at document-start
